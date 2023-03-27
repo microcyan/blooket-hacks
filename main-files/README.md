@@ -1,4 +1,4 @@
-<h1 align="center">very epic blooket hacks B)</h1>
+<h1 align="center">very epic blooket hacks</h1>
 <h3 align="center">i spent alot of time making these pls use them.</h3>
 
 #### made by microcyan . this is made for education purposes.
