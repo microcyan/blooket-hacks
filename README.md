@@ -1,6 +1,6 @@
 <h1 align="center">very epic blooket hacks</h1>
 <h3 align="center">i spent alot of time making these pls use them.</h3>
-<h3 align="center">twitch.tv/microcyan</h3>
+<h3 align="center">https://twitch.tv/microcyan</h3>
 
 #### made by microcyan . this is made for education purposes.
 - you got a problem with running the code? **jus write an issue and imma do my best to respond.**
