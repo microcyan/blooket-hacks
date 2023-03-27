@@ -14,4 +14,4 @@
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
 #### Copyright &copy; 2023 microcyan.
-<h3 align="center">i also stream alot of cool stuff on twitch so go gimme a follow pls, https://www.twitch.tv/microcyan</h3>
+<h3 align="center">https://www.twitch.tv/microcyan</h3>
