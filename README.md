@@ -16,3 +16,4 @@
 
 #### Copyright &copy; 2023 microcyan.
 <h3 align="center">there is probaly going to be a bug in one of the hacks, they will be fixed soon as i am working on them right now.</h3>
+<h3 align="center">i have some private revised hacks i might upload once its ready :D</h3>
