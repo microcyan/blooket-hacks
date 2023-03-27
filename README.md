@@ -15,3 +15,4 @@
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
 #### Copyright &copy; 2023 microcyan.
+<h3 align="center">there is probaly going to be a bug in one of the hacks, they will be fixed soon as i am working on them right now.</h3>
